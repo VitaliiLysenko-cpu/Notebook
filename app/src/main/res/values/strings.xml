@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Notebook</string>
+    <string name="notebook">Notebook</string>
+    <string name="notes">Notes</string>
+    <string name="New_note">New note</string>
+    <string name="note_topic">Topic</string>
+    <string-array name="options">
+        <item name="File">File</item>
+        <item name="Notes">Notes</item>
+        <item name="Seting">Seting</item>
+    </string-array>
 </resources>
